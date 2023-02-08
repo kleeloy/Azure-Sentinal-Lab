@@ -17,7 +17,9 @@ IPGEOLOCATION.io: IP address to geolocation API
 ## Attacks from Iran and Urkaine coming in; custom logs being output with geodata
 ![Sentinal_Lab_Image_4](https://github.com/kleeloy/Azure-Sentinal-Lab/blob/main/Diagrams/plotting%20senntinial%20lab.png)
 
-## World map of incoming attacks after 1st hour (built custom logs including geodata)
+## World Map of incoming attacks after 1st hour (built custom logs including geodata)
 ![Sentinal_Lab_Image_5](https://github.com/kleeloy/Azure-Sentinal-Lab/blob/main/Diagrams/Sennital%20lab%2010%20minutes%20after%20exposed%20RDP.png)
 
+## World Map of incoming attacks after 24 hours
+![Sentinal_Lab_Image_7](https://github.com/kleeloy/Azure-Sentinal-Lab/blob/main/Diagrams/sentinal%20world%20map%20lab%202.png)
 
