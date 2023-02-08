@@ -1,4 +1,5 @@
 # RDP Failed to locate IP Geolocation Information
+![Sentinal_Lab_Image_1](https://github.com/kleeloy/Azure-Sentinal-Lab/blob/main/Diagrams/ipgeolocation.png)
 
 ## Description
 #### This repository's powershell script is responsible for atomizing Windows event log information for failed RDP attacks and using an API (third party) to collect geographic information about the attackers location.
